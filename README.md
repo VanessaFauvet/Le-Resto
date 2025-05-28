@@ -23,4 +23,4 @@ Ce projet est réalisé dans le cadre de l'apprentissage du CSS avec Sass.
 
 ## Réalisation
 
-[Le site "La Montagne" final en ligne](https://vanessafauvet.github.io/La-Montagne/)
+[Le site "La Montagne" final en ligne](https://vanessafauvet.github.io/Le-Resto/)
